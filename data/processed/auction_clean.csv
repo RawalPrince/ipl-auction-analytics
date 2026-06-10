@@ -1,0 +1,611 @@
+player,country,age,role,base_price_lakh,sold_price_lakh,team,capped_status,season,price_multiplier,is_overseas
+R Ashwin,India,35,ALL-ROUNDER,200,500.0,RR,Capped,2022,2.5,False
+Trent Boult,New Zealand,32,BOWLER,200,800.0,RR,Capped,2022,4.0,True
+Pat Cummins,Australia,28,ALL-ROUNDER,200,725.0,KKR,Capped,2022,3.625,True
+Quinton De Kock,South Africa,29,WICKETKEEPER,200,675.0,LSG,Capped,2022,3.375,True
+Shikhar Dhawan,India,36,BATSMAN,200,825.0,PK,Capped,2022,4.125,False
+Faf Du Plessis,South Africa,37,BATSMAN,200,700.0,RCB,Capped,2022,3.5,True
+Shreyas Iyer,India,27,BATSMAN,200,1225.0,KKR,Capped,2022,6.125,False
+Kagiso Rabada,South Africa,26,BOWLER,200,925.0,PK,Capped,2022,4.625,True
+Mohammad Shami,India,32,BOWLER,200,625.0,GT,Capped,2022,3.125,False
+David Warner,Australia,35,BATSMAN,200,625.0,DC,Capped,2022,3.125,True
+Shimron Hetmyer,West Indies,25,BATSMAN,150,850.0,RR,Capped,2022,5.666666666666667,True
+David Miller,South Africa,32,BATSMAN,100,300.0,GT,Capped,2022,3.0,True
+Devdutt Padikkal,India,21,BATSMAN,200,775.0,RR,Capped,2022,3.875,False
+Manish Pandey,India,32,BATSMAN,100,460.0,LSG,Capped,2022,4.6,False
+Jason Roy,England,31,BATSMAN,200,200.0,GT,Capped,2022,1.0,True
+Robin Uthappa,India,36,BATSMAN,200,200.0,CSK,Capped,2022,1.0,False
+Dwayne Bravo,West Indies,38,ALL-ROUNDER,200,440.0,CSK,Capped,2022,2.2,True
+Wanindu Hasaranga,Sri Lanka,24,ALL-ROUNDER,100,1075.0,RCB,Capped,2022,10.75,True
+Jason Holder,West Indies,30,ALL-ROUNDER,150,875.0,LSG,Capped,2022,5.833333333333333,True
+Mitchell Marsh,Australia,30,ALL-ROUNDER,200,650.0,DC,Capped,2022,3.25,True
+Mohammad Nabi,Afghanistan,37,ALL-ROUNDER,100,100.0,KKR,Capped,2022,1.0,True
+Krunal Pandya,India,31,ALL-ROUNDER,200,825.0,LSG,Capped,2022,4.125,False
+Harshal Patel,India,31,ALL-ROUNDER,200,1075.0,RCB,Capped,2022,5.375,False
+Nitish Rana,India,28,ALL-ROUNDER,100,800.0,KKR,Capped,2022,8.0,False
+Washington Sundar,India,22,ALL-ROUNDER,150,875.0,SRH,Capped,2022,5.833333333333333,False
+Jonny Bairstow,England,32,WICKETKEEPER,150,675.0,PK,Capped,2022,4.5,True
+Sam Billings,England,30,WICKETKEEPER,200,200.0,KKR,Capped,2022,1.0,True
+Dinesh Karthik,India,36,WICKETKEEPER,200,550.0,RCB,Capped,2022,2.75,False
+Ishan Kishan,India,23,WICKETKEEPER,200,1525.0,MI,Capped,2022,7.625,False
+Nicholas Pooran,West Indies,26,WICKETKEEPER,150,1075.0,SRH,Capped,2022,7.166666666666667,True
+Ambati Rayudu,India,36,WICKETKEEPER,200,675.0,CSK,Capped,2022,3.375,False
+Wriddhiman Saha,India,37,WICKETKEEPER,100,190.0,GT,Capped,2022,1.9,False
+Matthew Wade,Australia,34,WICKETKEEPER,200,240.0,GT,Capped,2022,1.2,True
+Deepak Chahar,India,29,BOWLER,200,1400.0,CSK,Capped,2022,7.0,False
+Lockie Ferguson,New Zealand,30,BOWLER,200,1000.0,GT,Capped,2022,5.0,True
+Josh Hazlewood,Australia,31,BOWLER,200,775.0,RCB,Capped,2022,3.875,True
+Prasidh Krishna,India,26,BOWLER,100,1000.0,RR,Capped,2022,10.0,False
+Bhuvneshwar Kumar,India,32,BOWLER,200,420.0,SRH,Capped,2022,2.1,False
+T Natarajan,India,30,BOWLER,100,400.0,SRH,Capped,2022,4.0,False
+Mustafizur Rahman,Bangladesh,26,BOWLER,200,200.0,DC,Capped,2022,1.0,True
+Shardul Thakur,India,30,BOWLER,200,1075.0,DC,Capped,2022,5.375,False
+Mark Wood,England,32,BOWLER,200,750.0,LSG,Capped,2022,3.75,True
+Umesh Yadav,India,34,BOWLER,200,200.0,KKR,Capped,2022,1.0,False
+Yuzvendra Chahal,India,31,BOWLER,200,650.0,RR,Capped,2022,3.25,False
+Rahul Chahar,India,22,BOWLER,75,525.0,PK,Capped,2022,7.0,False
+Kuldeep Yadav,India,27,BOWLER,100,200.0,DC,Capped,2022,2.0,False
+Dewald Brevis,South Africa,18,BATSMAN,20,300.0,MI,Uncapped,2022,15.0,True
+Priyam Garg,India,21,BATSMAN,20,20.0,SRH,Uncapped,2022,1.0,False
+Ashwin Hebbar,India,26,BATSMAN,20,20.0,DC,Uncapped,2022,1.0,False
+CHari Nishaanth,India,25,BATSMAN,20,20.0,CSK,Uncapped,2022,1.0,False
+Abhinav Sadarangani,India,27,BATSMAN,20,260.0,GT,Uncapped,2022,13.0,False
+Anmolpreet Singh,India,24,BATSMAN,20,20.0,MI,Uncapped,2022,1.0,False
+Rahul Tripathi,India,31,BATSMAN,40,850.0,SRH,Uncapped,2022,21.25,False
+Shahbaz Ahamad,India,27,ALL-ROUNDER,30,240.0,RCB,Uncapped,2022,8.0,False
+Harpreet Brar,India,26,ALL-ROUNDER,20,380.0,PK,Uncapped,2022,19.0,False
+Deepak Hooda,India,26,ALL-ROUNDER,40,575.0,LSG,Uncapped,2022,14.375,False
+Sarfaraz Khan,India,24,ALL-ROUNDER,20,20.0,DC,Uncapped,2022,1.0,False
+Shahrukh Khan,India,26,ALL-ROUNDER,40,900.0,PK,Uncapped,2022,22.5,False
+Shivam Mavi,India,23,ALL-ROUNDER,40,725.0,KKR,Uncapped,2022,18.125,False
+Kamlesh Nagarkoti,India,22,ALL-ROUNDER,40,110.0,DC,Uncapped,2022,2.75,False
+Riyan Parag,India,20,ALL-ROUNDER,30,380.0,RR,Uncapped,2022,12.666666666666666,False
+Abhishek Sharma,India,21,ALL-ROUNDER,20,650.0,SRH,Uncapped,2022,32.5,False
+Rahul Tewatia,India,28,ALL-ROUNDER,40,900.0,GT,Uncapped,2022,22.5,False
+KS Bharat,India,28,WICKETKEEPER,20,200.0,DC,Uncapped,2022,10.0,False
+Sheldon Jackson,India,35,WICKETKEEPER,30,60.0,KKR,Uncapped,2022,2.0,False
+N Jagadeesan,India,26,WICKETKEEPER,20,20.0,CSK,Uncapped,2022,1.0,False
+Anuj Rawat,India,22,WICKETKEEPER,20,340.0,RCB,Uncapped,2022,17.0,False
+Jitesh Sharma,India,28,WICKETKEEPER,20,20.0,PK,Uncapped,2022,1.0,False
+Prabhsimran Singh,India,21,WICKETKEEPER,20,60.0,PK,Uncapped,2022,3.0,False
+Vishnu Vinod,India,28,WICKETKEEPER,20,50.0,SRH,Uncapped,2022,2.5,False
+KM Asif,India,28,BOWLER,20,20.0,CSK,Uncapped,2022,1.0,False
+Akash Deep,India,25,BOWLER,20,20.0,RCB,Uncapped,2022,1.0,False
+Tushar Deshpande,India,26,BOWLER,20,20.0,CSK,Uncapped,2022,1.0,False
+Avesh Khan,India,25,BOWLER,20,1000.0,LSG,Uncapped,2022,50.0,False
+Ishan Porel,India,23,BOWLER,20,25.0,PK,Uncapped,2022,1.25,False
+Ankit Singh Rajpoot,India,28,BOWLER,20,50.0,LSG,Uncapped,2022,2.5,False
+Basil Thampi,India,28,BOWLER,30,30.0,MI,Uncapped,2022,1.0,False
+Kartik Tyagi,India,21,BOWLER,20,400.0,SRH,Uncapped,2022,20.0,False
+Noor Ahmad,Afghanistan,17,BOWLER,30,30.0,GT,Uncapped,2022,1.0,True
+Murugan Ashwin,India,31,BOWLER,20,160.0,MI,Uncapped,2022,8.0,False
+KC Cariappa,India,27,BOWLER,20,30.0,RR,Uncapped,2022,1.5,False
+Shreyas Gopal,India,28,BOWLER,20,75.0,SRH,Uncapped,2022,3.75,False
+R Sai Kishore,India,25,BOWLER,20,300.0,GT,Uncapped,2022,15.0,False
+Jagadeesha Suchith,India,28,BOWLER,20,20.0,SRH,Uncapped,2022,1.0,False
+Aiden Markram,South Africa,27,BATSMAN,100,260.0,SRH,Capped,2022,2.6,True
+Ajinkya Rahane,India,33,BATSMAN,100,100.0,KKR,Capped,2022,1.0,False
+Mandeep Singh,India,30,BATSMAN,50,110.0,DC,Capped,2022,2.2,False
+Dominic Drakes,West Indies,24,ALL-ROUNDER,75,110.0,GT,Capped,2022,1.4666666666666666,True
+Shivam Dube,India,28,ALL-ROUNDER,50,400.0,CSK,Capped,2022,8.0,False
+K Gowtham,India,33,ALL-ROUNDER,50,90.0,LSG,Capped,2022,1.8,False
+Marco Jansen,South Africa,21,ALL-ROUNDER,50,420.0,SRH,Capped,2022,8.4,True
+Chris Jordan,England,33,ALL-ROUNDER,200,360.0,CSK,Capped,2022,1.8,True
+Liam Livingstone,England,28,ALL-ROUNDER,100,1150.0,PK,Capped,2022,11.5,True
+James Neesham,New Zealand,31,ALL-ROUNDER,150,150.0,RR,Capped,2022,1.0,True
+Vijay Shankar,India,31,ALL-ROUNDER,50,140.0,GT,Capped,2022,2.8,False
+Odean Smith,West Indies,25,ALL-ROUNDER,100,600.0,PK,Capped,2022,6.0,True
+Jayant Yadav,India,32,ALL-ROUNDER,100,170.0,GT,Capped,2022,1.7,False
+Syed Khaleel Ahmed,India,24,BOWLER,50,525.0,DC,Capped,2022,10.5,False
+Dushmanta Chameera,Sri Lanka,30,BOWLER,50,200.0,LSG,Capped,2022,4.0,True
+Nathan Coulter-Nile,Australia,34,BOWLER,200,200.0,RR,Capped,2022,1.0,True
+Lungisani Ngidi,South Africa,26,BOWLER,50,50.0,DC,Capped,2022,1.0,True
+Navdeep Saini,India,29,BOWLER,75,260.0,RR,Capped,2022,3.466666666666667,False
+Chetan Sakariya,India,24,BOWLER,50,420.0,DC,Capped,2022,8.4,False
+Sandeep Sharma,India,28,BOWLER,50,50.0,PK,Capped,2022,1.0,False
+Jaydev Unadkat,India,30,BOWLER,75,130.0,MI,Capped,2022,1.7333333333333334,False
+Mayank Markande,India,24,BOWLER,50,65.0,MI,Capped,2022,1.3,False
+Shahbaz Nadeem,India,32,BOWLER,50,50.0,LSG,Capped,2022,1.0,False
+Karn Sharma,India,34,BOWLER,50,50.0,RCB,Capped,2022,1.0,False
+Maheesh Theekshana,Sri Lanka,21,BOWLER,50,70.0,CSK,Capped,2022,1.4,True
+Rinku Singh,India,24,BATSMAN,20,55.0,KKR,Uncapped,2022,2.75,False
+Manan Vohra,India,28,BATSMAN,20,20.0,LSG,Uncapped,2022,1.0,False
+Raj Angad Bawa,India,19,ALL-ROUNDER,20,200.0,PK,Uncapped,2022,10.0,False
+Yash Dhull,India,19,ALL-ROUNDER,20,50.0,DC,Uncapped,2022,2.5,False
+Rajvardhan Hangargekar,India,19,ALL-ROUNDER,30,150.0,CSK,Uncapped,2022,5.0,False
+Mahipal Lomror,India,22,ALL-ROUNDER,40,95.0,RCB,Uncapped,2022,2.375,False
+Darshan Nalkande,India,23,ALL-ROUNDER,20,20.0,GT,Uncapped,2022,1.0,False
+Vicky Ostwal,India,19,ALL-ROUNDER,20,20.0,DC,Uncapped,2022,1.0,False
+Ripal Patel,India,26,ALL-ROUNDER,20,20.0,DC,Uncapped,2022,1.0,False
+Anukul Roy,India,23,ALL-ROUNDER,20,20.0,KKR,Uncapped,2022,1.0,False
+N Tilak Varma,India,19,ALL-ROUNDER,20,170.0,MI,Uncapped,2022,8.5,False
+Lalit Yadav,India,25,ALL-ROUNDER,20,65.0,DC,Uncapped,2022,3.25,False
+Sanjay Yadav,India,26,ALL-ROUNDER,20,50.0,MI,Uncapped,2022,2.5,False
+Yash Dayal,India,24,BOWLER,20,320.0,GT,Uncapped,2022,16.0,False
+Kuldeep Sen,India,25,BOWLER,20,20.0,RR,Uncapped,2022,1.0,False
+Simarjeet Singh,India,24,BOWLER,20,20.0,CSK,Uncapped,2022,1.0,False
+Finn Allen,New Zealand,22,BATSMAN,50,80.0,RCB,Capped,2022,1.6,True
+Devon Conway,New Zealand,30,BATSMAN,100,100.0,CSK,Capped,2022,1.0,True
+Alex Hales,England,33,BATSMAN,150,150.0,KKR,Capped,2022,1.0,True
+Evin Lewis,West Indies,30,BATSMAN,200,200.0,LSG,Capped,2022,1.0,True
+Karun Nair,India,30,BATSMAN,50,140.0,RR,Capped,2022,2.8,False
+Rovman Powell,West Indies,28,BATSMAN,75,280.0,DC,Capped,2022,3.7333333333333334,True
+Rassie Van Der Dussen,South Africa,33,BATSMAN,100,100.0,RR,Capped,2022,1.0,True
+Jofra Archer,England,27,ALL-ROUNDER,200,800.0,MI,Capped,2022,4.0,True
+Rishi Dhawan,India,32,ALL-ROUNDER,50,55.0,PK,Capped,2022,1.1,False
+Daryl Mitchell,New Zealand,30,ALL-ROUNDER,75,75.0,RR,Capped,2022,1.0,True
+Dwaine Pretorius,South Africa,33,ALL-ROUNDER,50,50.0,CSK,Capped,2022,1.0,True
+Sherfane Rutherford,West Indies,23,ALL-ROUNDER,100,100.0,RCB,Capped,2022,1.0,True
+Daniel Sams,Australia,29,ALL-ROUNDER,100,260.0,MI,Capped,2022,2.6,True
+Mitchell Santner,New Zealand,30,ALL-ROUNDER,100,190.0,CSK,Capped,2022,1.9,True
+Romario Shepherd,West Indies,27,ALL-ROUNDER,75,775.0,SRH,Capped,2022,10.333333333333334,True
+Glenn Phillips,New Zealand,25,WICKETKEEPER,150,150.0,SRH,Capped,2022,1.0,True
+Tim Seifert,New Zealand,27,WICKETKEEPER,50,50.0,DC,Capped,2022,1.0,True
+Jason Behrendorff,Australia,31,BOWLER,75,75.0,RCB,Capped,2022,1.0,True
+Nathan Ellis,Australia,27,BOWLER,75,75.0,PK,Capped,2022,1.0,True
+Fazalhaq Farooqi,Afghanistan,21,BOWLER,50,50.0,SRH,Capped,2022,1.0,True
+Siddharth Kaul,India,31,BOWLER,75,75.0,RCB,Capped,2022,1.0,False
+Obed Mccoy,West Indies,25,BOWLER,75,75.0,RR,Capped,2022,1.0,True
+Tymal Mills,England,29,BOWLER,100,150.0,MI,Capped,2022,1.5,True
+Adam Milne,New Zealand,29,BOWLER,150,190.0,CSK,Capped,2022,1.2666666666666666,True
+Subhranshu Senapati,India,25,BATSMAN,20,20.0,CSK,Uncapped,2022,1.0,False
+Tim David,Australia,26,ALL-ROUNDER,40,825.0,MI,Uncapped,2022,20.625,True
+Pravin Dubey,India,28,ALL-ROUNDER,20,50.0,DC,Uncapped,2022,2.5,False
+Prerak Mankad,India,27,ALL-ROUNDER,20,20.0,PK,Uncapped,2022,1.0,False
+Suyash Prabhudessai,India,24,ALL-ROUNDER,20,30.0,RCB,Uncapped,2022,1.5,False
+Ramandeep Singh,India,24,ALL-ROUNDER,20,20.0,MI,Uncapped,2022,1.0,False
+B Sai Sudharsan,India,20,ALL-ROUNDER,20,20.0,GT,Uncapped,2022,1.0,False
+Atharva Taide,India,21,ALL-ROUNDER,20,20.0,PK,Uncapped,2022,1.0,False
+Dhruv Jurel,India,21,WICKETKEEPER,20,20.0,RR,Uncapped,2022,1.0,False
+Aryan Juyal,India,20,WICKETKEEPER,20,20.0,MI,Uncapped,2022,1.0,False
+Luvnith Sisodia,India,22,WICKETKEEPER,20,20.0,RCB,Uncapped,2022,1.0,False
+Vaibhav Arora,India,24,BOWLER,20,200.0,PK,Uncapped,2022,10.0,False
+Mukesh Choudhary,India,25,BOWLER,20,20.0,CSK,Uncapped,2022,1.0,False
+Rasikh Dar,India,22,BOWLER,20,20.0,KKR,Uncapped,2022,1.0,False
+Mohsin Khan,India,23,BOWLER,20,20.0,LSG,Uncapped,2022,1.0,False
+Chama Milind,India,27,BOWLER,20,25.0,RCB,Uncapped,2022,1.25,False
+Mayank Yadav,India,19,BOWLER,20,20.0,LSG,Uncapped,2022,1.0,False
+Tejas Baroka,India,26,BOWLER,20,20.0,RR,Uncapped,2022,1.0,False
+Prashant Solanki,India,22,BOWLER,20,120.0,CSK,Uncapped,2022,6.0,False
+Bhanuka Rajapaksa,Sri Lanka,30,BATSMAN,50,50.0,PK,Capped,2022,1.0,True
+Fabian Allen,West Indies,26,ALL-ROUNDER,75,75.0,MI,Capped,2022,1.0,True
+Gurkeerat Singh,India,31,ALL-ROUNDER,50,50.0,GT,Capped,2022,1.0,False
+Sean Abbott,Australia,30,BOWLER,75,240.0,SRH,Capped,2022,3.2,True
+Alzarri Joseph,West Indies,25,BOWLER,75,240.0,GT,Capped,2022,3.2,True
+Riley Meredith,Australia,25,BOWLER,100,100.0,MI,Capped,2022,1.0,True
+Tim Southee,New Zealand,33,BOWLER,150,150.0,KKR,Capped,2022,1.0,True
+Rahul Buddhi,India,24,BATSMAN,20,20.0,MI,Uncapped,2022,1.0,False
+Ayush Badoni,India,22,ALL-ROUNDER,20,20.0,LSG,Uncapped,2022,1.0,False
+Aneeshwar Gautam,India,19,ALL-ROUNDER,20,20.0,RCB,Uncapped,2022,1.0,False
+Benny Howell,England,33,ALL-ROUNDER,40,40.0,PK,Uncapped,2022,1.0,True
+Baba Indrajith,India,27,WICKETKEEPER,20,20.0,KKR,Uncapped,2022,1.0,False
+Kuldip Yadav,India,25,BOWLER,20,20.0,RR,Uncapped,2022,1.0,False
+Chamika Karunaratne,Sri Lanka,25,ALL-ROUNDER,50,50.0,KKR,Capped,2022,1.0,True
+David Willey,England,32,ALL-ROUNDER,200,200.0,RCB,Capped,2022,1.0,True
+Varun Aaron,India,32,BOWLER,50,50.0,GT,Capped,2022,1.0,False
+R Samarth,India,29,BATSMAN,20,20.0,SRH,Uncapped,2022,1.0,False
+Abhijeet Tomar,India,27,BATSMAN,20,40.0,KKR,Uncapped,2022,2.0,False
+Aman Khan,India,25,ALL-ROUNDER,20,20.0,KKR,Uncapped,2022,1.0,False
+Pradeep Sangwan,India,31,ALL-ROUNDER,20,20.0,GT,Uncapped,2022,1.0,False
+Ramesh Kumar,India,23,BATSMAN,20,20.0,KKR,Uncapped,2022,1.0,False
+Pratham Singh,India,29,BATSMAN,20,20.0,KKR,Uncapped,2022,1.0,False
+Writtick Chatterjee,India,29,ALL-ROUNDER,20,20.0,PK,Uncapped,2022,1.0,False
+Hrithik Shokeen,India,21,ALL-ROUNDER,20,20.0,MI,Uncapped,2022,1.0,False
+Shashank Singh,India,30,ALL-ROUNDER,20,20.0,SRH,Uncapped,2022,1.0,False
+Kyle Mayers,West Indies,29,ALL-ROUNDER,50,50.0,LSG,Capped,2022,1.0,True
+Karan Sharma,India,23,ALL-ROUNDER,20,20.0,LSG,Uncapped,2022,1.0,False
+Baltej Dhanda,India,31,BOWLER,20,20.0,PK,Uncapped,2022,1.0,False
+Saurabh Dubey,India,24,BOWLER,20,20.0,SRH,Uncapped,2022,1.0,False
+Lalit Yadav,India,26,BOWLER,20,65.0,DC,Uncapped,2022,3.25,False
+Mohd Arshad Khan,India,24,ALL-ROUNDER,20,20.0,MI,Uncapped,2022,1.0,False
+Ansh Patel,India,20,ALL-ROUNDER,20,20.0,PK,Uncapped,2022,1.0,False
+KBhagath Varma,India,23,ALL-ROUNDER,20,20.0,CSK,Uncapped,2022,1.0,False
+Ashok Sharma,India,19,BOWLER,20,55.0,KKR,Uncapped,2022,2.75,False
+Arjun Tendulkar,India,22,ALL-ROUNDER,20,30.0,MI,Uncapped,2022,1.5,False
+Shubham Garhwal,India,26,ALL-ROUNDER,20,20.0,RR,Uncapped,2022,1.0,False
+Anunay Singh,India,29,ALL-ROUNDER,20,20.0,RR,Uncapped,2022,1.0,False
+Mayank Agarwal,India,32,BATSMAN,100,825.0,SRH,Capped,2023,8.25,False
+Harry Brook,England,24,BATSMAN,150,1325.0,SRH,Capped,2023,8.833333333333334,True
+Ajinkya Rahane,India,34,BATSMAN,50,50.0,CSK,Capped,2023,1.0,False
+Joe Root,England,32,BATSMAN,100,100.0,RR,Capped,2023,1.0,True
+Rilee Rossouw,South Africa,33,BATSMAN,200,459.99999999999994,DC,Capped,2023,2.3,True
+Kane Williamson,New Zealand,32,BATSMAN,200,200.0,GT,Capped,2023,1.0,True
+Sam Curran,England,24,ALL-ROUNDER,200,1850.0,PBKS,Capped,2023,9.25,True
+Cameron Green,Australia,23,ALL-ROUNDER,200,1750.0,MI,Capped,2023,8.75,True
+Shakib Al Hasan,Bangladesh,36,ALL-ROUNDER,150,150.0,KKR,Capped,2023,1.0,True
+Jason Holder,West Indies,31,ALL-ROUNDER,200,575.0,RR,Capped,2023,2.875,True
+Sikandar Raza,Zimbabwe,36,ALL-ROUNDER,50,50.0,PBKS,Capped,2023,1.0,True
+Odean Smith,West Indies,26,ALL-ROUNDER,50,50.0,GT,Capped,2023,1.0,True
+Ben Stokes,England,31,ALL-ROUNDER,200,1625.0,CSK,Capped,2023,8.125,True
+Tom Banton,England,24,WICKETKEEPER,200,0.0,UnSold,Capped,2023,0.0,True
+Litton Das,Bangladesh,28,WICKETKEEPER,50,50.0,KKR,Capped,2023,1.0,True
+Heinrich Klaasen,South Africa,31,WICKETKEEPER,100,525.0,SRH,Capped,2023,5.25,True
+Kusal Mendis,Sri Lanka,28,WICKETKEEPER,50,0.0,UnSold,Capped,2023,0.0,True
+Nicholas Pooran,West Indies,27,WICKETKEEPER,200,1600.0,LSG,Capped,2023,8.0,True
+Phil Salt,England,26,WICKETKEEPER,200,200.0,DC,Capped,2023,1.0,True
+Chris Jordan,England,34,BOWLER,200,0.0,UnSold,Capped,2023,0.0,True
+Adam Milne,New Zealand,30,BOWLER,200,0.0,UnSold,Capped,2023,0.0,True
+Jhye Richardson,Australia,26,BOWLER,150,150.0,MI,Capped,2023,1.0,True
+Ishant Sharma,India,34,BOWLER,50,50.0,DC,Capped,2023,1.0,False
+Reece Topley,England,29,BOWLER,75,190.0,RCB,Capped,2023,2.533333333333333,True
+Jaydev Unadkat,India,31,BOWLER,50,50.0,LSG,Capped,2023,1.0,False
+Akeal Hosein,West Indies,29,BOWLER,100,100.0,SRH,Capped,2023,1.0,True
+Mayank Markande,India,25,BOWLER,50,50.0,SRH,Capped,2023,1.0,False
+Mujeeb Rahman,Afghanistan,22,BOWLER,100,0.0,UnSold,Capped,2023,0.0,True
+Adil Rashid,England,35,BOWLER,200,200.0,SRH,Capped,2023,1.0,True
+Tabraiz Shamsi,South Africa,33,BOWLER,100,0.0,UnSold,Capped,2023,0.0,True
+Adam Zampa,Australia,30,BOWLER,150,150.0,RR,Capped,2023,1.0,True
+Shubham Khajuria,India,27,BATSMAN,20,0.0,UnSold,Uncapped,2023,0.0,False
+Rohan Kunnummal,India,24,BATSMAN,20,0.0,UnSold,Uncapped,2023,0.0,False
+Chethan L.R.,India,22,BATSMAN,20,0.0,UnSold,Uncapped,2023,0.0,False
+Shaik Rasheed,India,18,BATSMAN,20,20.0,CSK,Uncapped,2023,1.0,False
+Anmolpreet Singh,India,25,BATSMAN,20,20.0,SRH,Uncapped,2023,1.0,False
+Himmat Singh,India,26,BATSMAN,20,0.0,UnSold,Uncapped,2023,0.0,False
+Corbin Bosch,South Africa,28,ALL-ROUNDER,20,0.0,UnSold,Uncapped,2023,0.0,True
+Priyam Garg,India,22,ALL-ROUNDER,20,0.0,UnSold,Uncapped,2023,0.0,False
+Saurabh Kumar,India,29,ALL-ROUNDER,20,0.0,UnSold,Uncapped,2023,0.0,False
+Vivrant Sharma,India,23,ALL-ROUNDER,20,260.0,SRH,Uncapped,2023,13.0,False
+Nishant Sindhu,India,18,ALL-ROUNDER,20,60.0,CSK,Uncapped,2023,3.0,False
+Sanvir Singh,India,26,ALL-ROUNDER,20,20.0,SRH,Uncapped,2023,1.0,False
+Shashank Singh,India,31,ALL-ROUNDER,20,0.0,UnSold,Uncapped,2023,0.0,False
+Samarth Vyas,India,27,ALL-ROUNDER,20,20.0,SRH,Uncapped,2023,1.0,False
+K.S. Bharat,India,29,WICKETKEEPER,20,0.0,UnSold,Uncapped,2023,0.0,False
+Mohammed Azharuddeen,India,29,WICKETKEEPER,20,0.0,UnSold,Uncapped,2023,0.0,False
+Dinesh Bana,India,18,WICKETKEEPER,20,0.0,UnSold,Uncapped,2023,0.0,False
+Abhimanyu Easwaran,India,27,WICKETKEEPER,20,0.0,UnSold,Uncapped,2023,0.0,False
+N. Jagadeesan,India,27,WICKETKEEPER,20,0.0,UnSold,Uncapped,2023,0.0,False
+Sumit Kumar,India,27,WICKETKEEPER,20,0.0,UnSold,Uncapped,2023,0.0,False
+Upendra Singh Yadav,India,26,WICKETKEEPER,20,0.0,UnSold,Uncapped,2023,0.0,False
+Vaibhav Arora,India,25,BOWLER,20,60.0,KKR,Uncapped,2023,3.0,False
+K.M. Asif,India,29,BOWLER,30,0.0,UnSold,Uncapped,2023,0.0,False
+Mukesh Kumar,India,29,BOWLER,20,550.0,DC,Uncapped,2023,27.5,False
+Shivam Mavi,India,24,BOWLER,40,600.0,GT,Uncapped,2023,15.0,False
+Lance Morris,Australia,25,BOWLER,30,0.0,UnSold,Uncapped,2023,0.0,True
+Yash Thakur,India,24,BOWLER,20,45.0,LSG,Uncapped,2023,2.25,False
+Mujtaba Yousuf,India,20,BOWLER,20,0.0,UnSold,Uncapped,2023,0.0,False
+Murugan Ashwin,India,32,BOWLER,20,20.0,RR,Uncapped,2023,1.0,False
+Chintal Gandhi,India,28,BOWLER,20,0.0,UnSold,Uncapped,2023,0.0,False
+Shreyas Gopal,India,29,BOWLER,20,0.0,UnSold,Uncapped,2023,0.0,False
+S Midhun,India,28,BOWLER,20,0.0,UnSold,Uncapped,2023,0.0,False
+Izharulhuq Naveed,Afghanistan,19,BOWLER,20,0.0,UnSold,Uncapped,2023,0.0,True
+Himanshu Sharma,India,24,BOWLER,20,20.0,RCB,Uncapped,2023,1.0,False
+Travis Head,Australia,29,BATSMAN,200,0.0,UnSold,Capped,2023,0.0,True
+Will Jacks,England,24,BATSMAN,150,320.0,RCB,Capped,2023,2.1333333333333333,True
+Dawid Malan,England,35,BATSMAN,150,0.0,UnSold,Capped,2023,0.0,True
+Manish Pandey,India,33,BATSMAN,100,240.0,DC,Capped,2023,2.4,False
+Sherfane Rutherford,West Indies,24,BATSMAN,150,0.0,UnSold,Capped,2023,0.0,True
+Mandeep Singh,India,31,BATSMAN,50,50.0,KKR,Capped,2023,1.0,False
+Paul Stirling,Ireland,32,BATSMAN,50,0.0,UnSold,Capped,2023,0.0,True
+Rassie Van Der Dussen,South Africa,34,BATSMAN,200,0.0,UnSold,Capped,2023,0.0,True
+Daryl Mitchell,New Zealand,31,ALL-ROUNDER,100,0.0,UnSold,Capped,2023,0.0,True
+Mohammad Nabi,Afghanistan,38,ALL-ROUNDER,100,0.0,UnSold,Capped,2023,0.0,True
+Jimmy Neesham,New Zealand,32,ALL-ROUNDER,200,0.0,UnSold,Capped,2023,0.0,True
+Wayne Parnell,South Africa,33,ALL-ROUNDER,75,0.0,UnSold,Capped,2023,0.0,True
+Daniel Sams,Australia,30,ALL-ROUNDER,75,75.0,LSG,Capped,2023,1.0,True
+Dasun Shanaka,Sri Lanka,31,ALL-ROUNDER,50,0.0,UnSold,Capped,2023,0.0,True
+Romario Shepherd,West Indies,28,ALL-ROUNDER,50,50.0,LSG,Capped,2023,1.0,True
+Taskin Ahmed,Bangladesh,28,BOWLER,50,0.0,UnSold,Capped,2023,0.0,True
+Dushmanta Chameera,Sri Lanka,31,BOWLER,50,0.0,UnSold,Capped,2023,0.0,True
+Kyle Jamieson,New Zealand,28,BOWLER,100,100.0,CSK,Capped,2023,1.0,True
+Riley Meredith,Australia,26,BOWLER,150,0.0,UnSold,Capped,2023,0.0,True
+Blessing Muzarabani,Zimbabwe,26,BOWLER,50,0.0,UnSold,Capped,2023,0.0,True
+Sandeep Sharma,India,29,BOWLER,50,0.0,UnSold,Capped,2023,0.0,False
+Johnson Charles,West Indies,34,WICKETKEEPER,50,0.0,UnSold,Capped,2023,0.0,True
+Andre Fletcher,West Indies,35,WICKETKEEPER,50,0.0,UnSold,Capped,2023,0.0,True
+Shai Hope,West Indies,29,WICKETKEEPER,100,0.0,UnSold,Capped,2023,0.0,True
+Tom Latham,New Zealand,31,WICKETKEEPER,100,0.0,UnSold,Capped,2023,0.0,True
+Ben Mcdermott,Australia,28,WICKETKEEPER,50,0.0,UnSold,Capped,2023,0.0,True
+Joshua Philippe,Australia,25,WICKETKEEPER,75,0.0,UnSold,Capped,2023,0.0,True
+Lorcan Tucker,Ireland,26,WICKETKEEPER,50,0.0,UnSold,Capped,2023,0.0,True
+Piyush Chawla,India,34,BOWLER,50,50.0,MI,Capped,2023,1.0,False
+Amit Mishra,India,40,BOWLER,50,50.0,LSG,Capped,2023,1.0,False
+Shahbaz Nadeem,India,33,BOWLER,50,0.0,UnSold,Capped,2023,0.0,False
+Ish Sodhi,New Zealand,30,BOWLER,75,0.0,UnSold,Capped,2023,0.0,True
+Sachin Baby,India,34,BATSMAN,20,0.0,UnSold,Uncapped,2023,0.0,False
+Harpreet Bhatia,India,31,BATSMAN,20,40.0,PBKS,Uncapped,2023,2.0,False
+Ashwin Hebbar,India,27,BATSMAN,20,0.0,UnSold,Uncapped,2023,0.0,False
+Pukhraj Mann,India,21,BATSMAN,20,0.0,UnSold,Uncapped,2023,0.0,False
+Akshat Raghuwanshi,India,19,BATSMAN,20,0.0,UnSold,Uncapped,2023,0.0,False
+Himanshu Rana,India,24,BATSMAN,20,0.0,UnSold,Uncapped,2023,0.0,False
+Shoun Roger,India,20,BATSMAN,20,0.0,UnSold,Uncapped,2023,0.0,False
+Virat Singh,India,25,BATSMAN,20,0.0,UnSold,Uncapped,2023,0.0,False
+Will Smeed,England,21,BATSMAN,40,0.0,UnSold,Uncapped,2023,0.0,True
+Apoorv Wankhade,India,31,BATSMAN,30,0.0,UnSold,Uncapped,2023,0.0,False
+Manoj Bhandage,India,24,ALL-ROUNDER,20,20.0,RCB,Uncapped,2023,1.0,False
+Gerald Coetzee,South Africa,22,ALL-ROUNDER,20,0.0,UnSold,Uncapped,2023,0.0,True
+Mayank Dagar,India,26,ALL-ROUNDER,20,180.0,SRH,Uncapped,2023,9.0,False
+Duan Jansen,South Africa,22,ALL-ROUNDER,20,20.0,MI,Uncapped,2023,1.0,True
+Evan Jones,South Africa,26,ALL-ROUNDER,20,0.0,UnSold,Uncapped,2023,0.0,True
+Prerak Mankad,India,28,ALL-ROUNDER,20,20.0,LSG,Uncapped,2023,1.0,False
+Abid Mushtaq,India,26,ALL-ROUNDER,20,0.0,UnSold,Uncapped,2023,0.0,False
+Suryansh Shedge,India,20,ALL-ROUNDER,20,0.0,UnSold,Uncapped,2023,0.0,False
+Jagadeesha Suchith,India,29,ALL-ROUNDER,20,0.0,UnSold,Uncapped,2023,0.0,False
+Akash Vashisht,India,28,ALL-ROUNDER,20,20.0,RR,Uncapped,2023,1.0,False
+Ricky Bhui,India,26,WICKETKEEPER,20,0.0,UnSold,Uncapped,2023,0.0,False
+Donovan Ferreira,South Africa,24,WICKETKEEPER,20,50.0,RR,Uncapped,2023,2.5,True
+Baba Indrajith,India,28,WICKETKEEPER,20,0.0,UnSold,Uncapped,2023,0.0,False
+Sheldon Jackson,India,36,WICKETKEEPER,20,0.0,UnSold,Uncapped,2023,0.0,False
+Aryan Juyal,India,21,WICKETKEEPER,20,0.0,UnSold,Uncapped,2023,0.0,False
+Urvil Patel,India,24,WICKETKEEPER,20,20.0,GT,Uncapped,2023,1.0,False
+Kirant Shinde,India,25,WICKETKEEPER,20,0.0,UnSold,Uncapped,2023,0.0,False
+Luvnith Sisodia,India,23,WICKETKEEPER,20,0.0,UnSold,Uncapped,2023,0.0,False
+Vishnu Solanki,India,30,WICKETKEEPER,20,0.0,UnSold,Uncapped,2023,0.0,False
+Vishnu Vinod,India,29,WICKETKEEPER,20,20.0,MI,Uncapped,2023,1.0,False
+Aniket Choudhary,India,33,BOWLER,30,0.0,UnSold,Uncapped,2023,0.0,False
+Vidwath Kaverappa,India,24,BOWLER,20,20.0,PBKS,Uncapped,2023,1.0,False
+Rajan Kumar,India,26,BOWLER,20,70.0,RCB,Uncapped,2023,3.5,False
+Ravi Kumar,India,19,BOWLER,20,0.0,UnSold,Uncapped,2023,0.0,False
+Sushant Mishra,India,22,BOWLER,20,0.0,UnSold,Uncapped,2023,0.0,False
+Arzan Nagwaswalla,India,25,BOWLER,20,0.0,UnSold,Uncapped,2023,0.0,False
+Ishan Porel,India,24,BOWLER,20,0.0,UnSold,Uncapped,2023,0.0,False
+Akash Singh,India,20,BOWLER,20,0.0,UnSold,Uncapped,2023,0.0,False
+Basil Thampi,India,29,BOWLER,20,0.0,UnSold,Uncapped,2023,0.0,False
+Paul Van Meekeren,Netherland,30,BOWLER,20,0.0,UnSold,Associate,2023,0.0,True
+Vyshak Vijay Kumar,India,26,BOWLER,20,0.0,UnSold,Uncapped,2023,0.0,False
+S.Ajith Ram,India,24,BOWLER,20,0.0,UnSold,Uncapped,2023,0.0,False
+Satyajeet Bachhav,India,30,BOWLER,20,0.0,UnSold,Uncapped,2023,0.0,False
+Tejas Baroka,India,27,BOWLER,20,0.0,UnSold,Uncapped,2023,0.0,False
+Yuvraj Chudasama,India,27,BOWLER,20,0.0,UnSold,Uncapped,2023,0.0,False
+Peter Hatzoglou,Australia,24,BOWLER,20,0.0,UnSold,Uncapped,2023,0.0,True
+Karthik Meiyappan,UAE,22,BOWLER,20,0.0,UnSold,Associate,2023,0.0,True
+Suyash Sharma,India,19,BOWLER,20,20.0,KKR,Uncapped,2023,1.0,False
+Shivam Sharma,India,27,BOWLER,20,0.0,UnSold,Uncapped,2023,0.0,False
+Reeza Hendricks,South Africa,33,BATSMAN,50,0.0,UnSold,Capped,2023,0.0,True
+Christiaan Jonker,South Africa,36,BATSMAN,50,0.0,UnSold,Capped,2023,0.0,True
+Brandon King,West Indies,28,BATSMAN,50,0.0,UnSold,Capped,2023,0.0,True
+Chris Lynn,Australia,32,BATSMAN,200,0.0,UnSold,Capped,2023,0.0,True
+Karun Nair,India,31,BATSMAN,50,0.0,UnSold,Capped,2023,0.0,False
+Pathum Nissaanka,Sri Lanka,24,BATSMAN,50,0.0,UnSold,Capped,2023,0.0,True
+Jason Roy,England,32,BATSMAN,150,0.0,UnSold,Capped,2023,0.0,True
+Gurkeerat Singh,India,32,BATSMAN,50,0.0,UnSold,Capped,2023,0.0,False
+Harry Tector,Ireland,23,BATSMAN,50,0.0,UnSold,Capped,2023,0.0,True
+Najibullah Zadran,Afghanistan,30,BATSMAN,50,0.0,UnSold,Capped,2023,0.0,True
+Sean Abbott,Australia,31,ALL-ROUNDER,150,0.0,UnSold,Capped,2023,0.0,True
+Qais Ahmad,Afghanistan,22,ALL-ROUNDER,50,0.0,UnSold,Capped,2023,0.0,True
+Charith Asalanka,Sri Lanka,25,ALL-ROUNDER,50,0.0,UnSold,Capped,2023,0.0,True
+Michael Bracewell,New Zealand,32,ALL-ROUNDER,100,0.0,UnSold,Capped,2023,0.0,True
+Dominic Drakes,West Indies,25,ALL-ROUNDER,50,0.0,UnSold,Capped,2023,0.0,True
+George Garton,England,25,ALL-ROUNDER,50,0.0,UnSold,Capped,2023,0.0,True
+Chamika Karunaratne,Sri Lanka,26,ALL-ROUNDER,50,0.0,UnSold,Capped,2023,0.0,True
+Jamie Overton,England,28,ALL-ROUNDER,200,0.0,UnSold,Capped,2023,0.0,True
+Sandeep Warrier,India,32,ALL-ROUNDER,50,0.0,UnSold,Capped,2023,0.0,False
+Ben Dwarshuis,Australia,28,BOWLER,50,0.0,UnSold,Capped,2023,0.0,True
+Richard Gleeson,England,35,BOWLER,50,0.0,UnSold,Capped,2023,0.0,True
+Naveen Ul Haq,Afghanistan,23,BOWLER,50,50.0,LSG,Capped,2023,1.0,True
+Lahiru Kumara,Sri Lanka,26,BOWLER,50,0.0,UnSold,Capped,2023,0.0,True
+Joshua Little,Ireland,23,BOWLER,50,440.00000000000006,GT,Capped,2023,8.8,True
+Dilshan Madushanka,Sri Lanka,22,BOWLER,50,0.0,UnSold,Capped,2023,0.0,True
+Mohit Sharma,India,34,BOWLER,50,50.0,GT,Capped,2023,1.0,False
+Billy Stanlake,Australia,28,BOWLER,50,0.0,UnSold,Capped,2023,0.0,True
+Andrew Tye,Australia,36,BOWLER,100,0.0,UnSold,Capped,2023,0.0,True
+Luke Wood,England,27,BOWLER,100,0.0,UnSold,Capped,2023,0.0,True
+Priyansh Arya,India,21,BATSMAN,20,0.0,UnSold,Uncapped,2023,0.0,False
+Matthew Breetzke,South Africa,24,BATSMAN,20,0.0,UnSold,Uncapped,2023,0.0,True
+Shivam Chauhan,India,25,BATSMAN,20,0.0,UnSold,Uncapped,2023,0.0,False
+Rahul Gahlaut,India,27,BATSMAN,20,0.0,UnSold,Uncapped,2023,0.0,False
+Sudip Gharami,India,24,BATSMAN,20,0.0,UnSold,Uncapped,2023,0.0,False
+C. Hari Nishaanth,India,26,BATSMAN,20,0.0,UnSold,Uncapped,2023,0.0,False
+Amandeep Khare,India,25,BATSMAN,20,0.0,UnSold,Uncapped,2023,0.0,False
+Bhanu Pania,India,26,BATSMAN,20,0.0,UnSold,Uncapped,2023,0.0,False
+Ekant Sen,India,27,BATSMAN,20,0.0,UnSold,Uncapped,2023,0.0,False
+Akash Singh,India,27,BATSMAN,20,0.0,UnSold,Uncapped,2023,0.0,False
+Himanshu Bisht,India,26,ALL-ROUNDER,20,0.0,UnSold,Uncapped,2023,0.0,False
+Yudhvir Charak,India,25,ALL-ROUNDER,20,20.0,LSG,Uncapped,2023,1.0,False
+Mickil Jaiswal,India,24,ALL-ROUNDER,20,0.0,UnSold,Uncapped,2023,0.0,False
+Shams Mulani,India,26,ALL-ROUNDER,20,20.0,MI,Uncapped,2023,1.0,False
+G.Aniketh Reddy,India,22,ALL-ROUNDER,20,0.0,UnSold,Uncapped,2023,0.0,False
+Atit Sheth,India,27,ALL-ROUNDER,20,0.0,UnSold,Uncapped,2023,0.0,False
+M. Siddharth,India,24,ALL-ROUNDER,20,0.0,UnSold,Uncapped,2023,0.0,False
+Swapnil Singh,India,32,ALL-ROUNDER,20,20.0,LSG,Uncapped,2023,1.0,False
+Tanay Thyagarajann,India,27,ALL-ROUNDER,20,0.0,UnSold,Uncapped,2023,0.0,False
+Sumeet Verma,India,32,ALL-ROUNDER,20,0.0,UnSold,Uncapped,2023,0.0,False
+David Wiese,Namibia,37,ALL-ROUNDER,100,100.0,KKR,Associate,2023,1.0,True
+Sanjay Yadav,India,27,ALL-ROUNDER,20,0.0,UnSold,Uncapped,2023,0.0,False
+Ajitesh Guruswamy,India,20,WICKETKEEPER,20,0.0,UnSold,Uncapped,2023,0.0,False
+Yash Kothari,India,27,WICKETKEEPER,20,0.0,UnSold,Uncapped,2023,0.0,False
+Suresh Kumar,India,32,WICKETKEEPER,20,0.0,UnSold,Uncapped,2023,0.0,False
+Kumar Kushagra,India,18,WICKETKEEPER,20,0.0,UnSold,Uncapped,2023,0.0,False
+Anmol Malhotra,India,27,WICKETKEEPER,20,0.0,UnSold,Uncapped,2023,0.0,False
+Robin Minz,India,20,WICKETKEEPER,20,0.0,UnSold,Uncapped,2023,0.0,False
+Agniv Pan,India,26,WICKETKEEPER,20,0.0,UnSold,Uncapped,2023,0.0,False
+Priyesh Patel,India,21,WICKETKEEPER,20,0.0,UnSold,Uncapped,2023,0.0,False
+Mitesh Patel,India,25,WICKETKEEPER,20,0.0,UnSold,Uncapped,2023,0.0,False
+Abishek Porel,India,20,WICKETKEEPER,20,0.0,UnSold,Uncapped,2023,0.0,False
+Nitish Kumar Reddy,India,19,WICKETKEEPER,20,20.0,SRH,Uncapped,2023,1.0,False
+Bharat Sharma,India,27,WICKETKEEPER,20,0.0,UnSold,Uncapped,2023,0.0,False
+Vivek Singh,India,29,WICKETKEEPER,20,0.0,UnSold,Uncapped,2023,0.0,False
+Abhijeet Tomar,India,28,WICKETKEEPER,20,0.0,UnSold,Uncapped,2023,0.0,False
+Basit Bashir,India,20,BOWLER,20,0.0,UnSold,Uncapped,2023,0.0,False
+Nandre Burger,South Africa,27,BOWLER,20,0.0,UnSold,Uncapped,2023,0.0,True
+Rasikh Dar,India,23,BOWLER,20,0.0,UnSold,Uncapped,2023,0.0,False
+Sakib Hussain,India,18,BOWLER,20,0.0,UnSold,Uncapped,2023,0.0,False
+Waseem Khanday,India,23,BOWLER,20,0.0,UnSold,Uncapped,2023,0.0,False
+Ravi Kiran Majeti,India,32,BOWLER,20,0.0,UnSold,Uncapped,2023,0.0,False
+Lukman Hussain Meriwala,India,31,BOWLER,20,0.0,UnSold,Uncapped,2023,0.0,False
+Anuj Raj,India,22,BOWLER,20,0.0,UnSold,Uncapped,2023,0.0,False
+Ankit Singh Rajpoot,India,29,BOWLER,20,0.0,UnSold,Uncapped,2023,0.0,False
+Avinash Singh,India,24,BOWLER,20,60.0,RCB,Uncapped,2023,3.0,False
+Prince Yadav,India,21,BOWLER,20,0.0,UnSold,Uncapped,2023,0.0,False
+Prithviraj Yarra,India,25,BOWLER,20,0.0,UnSold,Uncapped,2023,0.0,False
+Mushtaq Beg,India,24,BOWLER,20,0.0,UnSold,Uncapped,2023,0.0,False
+Rocky Bhasker,India,30,BOWLER,20,0.0,UnSold,Uncapped,2023,0.0,False
+Sanjith Devaraj,India,25,BOWLER,20,0.0,UnSold,Uncapped,2023,0.0,False
+Raghav Goyal,India,21,BOWLER,20,20.0,MI,Uncapped,2023,1.0,False
+Allah Mohammad,Afghanistan,15,BOWLER,20,0.0,UnSold,Uncapped,2023,0.0,True
+Lalit Mohan,India,33,BOWLER,20,0.0,UnSold,Uncapped,2023,0.0,False
+Bhuwan Rohilla,India,21,BOWLER,20,0.0,UnSold,Uncapped,2023,0.0,False
+Aman Sharma,India,26,BOWLER,20,0.0,UnSold,Uncapped,2023,0.0,False
+Manav Suthar,India,20,BOWLER,20,0.0,UnSold,Uncapped,2023,0.0,False
+Tom Curran,England,28,ALL-ROUNDER,75,0.0,UnSold,Capped,2023,0.0,True
+Moises Henriques,Australia,36,ALL-ROUNDER,100,0.0,UnSold,Capped,2023,0.0,True
+Afif Hossain,Bangladesh,23,ALL-ROUNDER,50,0.0,UnSold,Capped,2023,0.0,True
+Scott Kuggeleijn,New Zealand,31,ALL-ROUNDER,50,0.0,UnSold,Capped,2023,0.0,True
+Sisanda Magala,South Africa,32,ALL-ROUNDER,50,0.0,UnSold,Capped,2023,0.0,True
+Craig Overton,England,28,ALL-ROUNDER,200,0.0,UnSold,Capped,2023,0.0,True
+Darcy Short,Australia,32,ALL-ROUNDER,75,0.0,UnSold,Capped,2023,0.0,True
+Dhananjaya Silva,Sri Lanka,31,ALL-ROUNDER,50,0.0,UnSold,Capped,2023,0.0,True
+Dunith Wellalage,Sri Lanka,20,ALL-ROUNDER,50,0.0,UnSold,Capped,2023,0.0,True
+Varun Aaron,India,33,BOWLER,50,0.0,UnSold,Capped,2023,0.0,False
+Sheldon Cottrel,West Indies,33,BOWLER,50,0.0,UnSold,Capped,2023,0.0,True
+Nathan Coulter-Nile,Australia,35,BOWLER,150,0.0,UnSold,Capped,2023,0.0,True
+Daryn Dupavillon,South Africa,28,BOWLER,50,0.0,UnSold,Capped,2023,0.0,True
+Matt Henry,New Zealand,31,BOWLER,100,0.0,UnSold,Capped,2023,0.0,True
+Dhawal Kulkarni,India,34,BOWLER,50,0.0,UnSold,Capped,2023,0.0,False
+Tymal Mills,England,30,BOWLER,200,0.0,UnSold,Capped,2023,0.0,True
+David Payne,England,32,BOWLER,75,0.0,UnSold,Capped,2023,0.0,True
+Barinder Sran,India,30,BOWLER,50,0.0,UnSold,Capped,2023,0.0,False
+Glenton Stuurman,South Africa,30,BOWLER,50,0.0,UnSold,Capped,2023,0.0,True
+Anirudh Balachander,India,28,BATSMAN,20,0.0,UnSold,Uncapped,2023,0.0,False
+Gourav Choudhary,India,24,BATSMAN,20,0.0,UnSold,Uncapped,2023,0.0,False
+Saurav Chuahan,India,22,BATSMAN,20,0.0,UnSold,Uncapped,2023,0.0,False
+Kumar Deobrat,India,30,BATSMAN,20,0.0,UnSold,Uncapped,2023,0.0,False
+Chirag Gandhi,India,32,BATSMAN,20,0.0,UnSold,Uncapped,2023,0.0,False
+Arman Jaffer,India,24,BATSMAN,20,0.0,UnSold,Uncapped,2023,0.0,False
+Madhav Kaushik,India,25,BATSMAN,20,0.0,UnSold,Uncapped,2023,0.0,False
+Priyank Panchal,India,33,BATSMAN,20,0.0,UnSold,Uncapped,2023,0.0,False
+Ayush Pandey,India,19,BATSMAN,20,0.0,UnSold,Uncapped,2023,0.0,False
+Rohan Patil,India,21,BATSMAN,20,0.0,UnSold,Uncapped,2023,0.0,False
+Sanjay Ramaswamy,India,28,BATSMAN,20,0.0,UnSold,Uncapped,2023,0.0,False
+Siddharth Yadav,India,19,BATSMAN,20,0.0,UnSold,Uncapped,2023,0.0,False
+Rehan Ahmed,England,18,ALL-ROUNDER,40,0.0,UnSold,Uncapped,2023,0.0,True
+Prayas Barman,India,20,ALL-ROUNDER,20,0.0,UnSold,Uncapped,2023,0.0,False
+Rahul Buddhi,India,25,ALL-ROUNDER,20,0.0,UnSold,Uncapped,2023,0.0,False
+Vaisakh Chandran,India,26,ALL-ROUNDER,20,0.0,UnSold,Uncapped,2023,0.0,False
+Writtick Chatterjee,India,30,ALL-ROUNDER,20,0.0,UnSold,Uncapped,2023,0.0,False
+Prashant Chopra,India,30,ALL-ROUNDER,20,0.0,UnSold,Uncapped,2023,0.0,False
+Harsh Dubey,India,20,ALL-ROUNDER,20,0.0,UnSold,Uncapped,2023,0.0,False
+Tanush Kotian,India,24,ALL-ROUNDER,20,0.0,UnSold,Uncapped,2023,0.0,False
+Ninad Rathva,India,24,ALL-ROUNDER,20,0.0,UnSold,Uncapped,2023,0.0,False
+B. Surya,India,26,ALL-ROUNDER,20,0.0,UnSold,Uncapped,2023,0.0,False
+Jordan Thompson,England,26,ALL-ROUNDER,40,0.0,UnSold,Uncapped,2023,0.0,True
+Shivank Vashisth,India,27,ALL-ROUNDER,20,0.0,UnSold,Uncapped,2023,0.0,False
+Ankush Bains,India,27,WICKETKEEPER,20,0.0,UnSold,Uncapped,2023,0.0,False
+Christopher Benjamin,England,23,WICKETKEEPER,20,0.0,UnSold,Uncapped,2023,0.0,True
+Connor Esterhuizen,South Africa,21,WICKETKEEPER,20,0.0,UnSold,Uncapped,2023,0.0,True
+Mohd Arslan Khan,India,23,WICKETKEEPER,20,0.0,UnSold,Uncapped,2023,0.0,False
+Mamidi Krishna,India,21,WICKETKEEPER,20,0.0,UnSold,Uncapped,2023,0.0,False
+Fazil Makaya,India,26,WICKETKEEPER,20,0.0,UnSold,Uncapped,2023,0.0,False
+Akshdeep Nath,India,29,WICKETKEEPER,20,0.0,UnSold,Uncapped,2023,0.0,False
+Deepak Punia,India,29,WICKETKEEPER,20,0.0,UnSold,Uncapped,2023,0.0,False
+Kunal Rathore,India,20,WICKETKEEPER,20,20.0,RR,Uncapped,2023,1.0,False
+Ateev Saini,India,27,WICKETKEEPER,20,0.0,UnSold,Uncapped,2023,0.0,False
+Bipin Saurabh,India,23,WICKETKEEPER,20,0.0,UnSold,Uncapped,2023,0.0,False
+B.R. Sharath,India,26,WICKETKEEPER,20,0.0,UnSold,Uncapped,2023,0.0,False
+Yashovardhan Singh,India,20,WICKETKEEPER,20,0.0,UnSold,Uncapped,2023,0.0,False
+Lakshay Thareja,India,25,WICKETKEEPER,20,0.0,UnSold,Uncapped,2023,0.0,False
+Mohit Avasthi,India,30,BOWLER,20,0.0,UnSold,Uncapped,2023,0.0,False
+Ottneil Baartman,South Africa,30,BOWLER,20,0.0,UnSold,Uncapped,2023,0.0,True
+Gurnoor Singh Brar,India,22,BOWLER,20,0.0,UnSold,Uncapped,2023,0.0,False
+Shahrukh Dar,India,29,BOWLER,20,0.0,UnSold,Uncapped,2023,0.0,False
+Thomas Helm,England,28,BOWLER,40,0.0,UnSold,Uncapped,2023,0.0,True
+Pankaj Jaswal,India,27,BOWLER,20,0.0,UnSold,Uncapped,2023,0.0,False
+Venkatesh Muralidhara,India,22,BOWLER,20,0.0,UnSold,Uncapped,2023,0.0,False
+Geet Puri,India,28,BOWLER,20,0.0,UnSold,Uncapped,2023,0.0,False
+E. Sanketh,India,23,BOWLER,20,0.0,UnSold,Uncapped,2023,0.0,False
+Ajay Sarkar,India,26,BOWLER,20,0.0,UnSold,Uncapped,2023,0.0,False
+Ashok Sharma,India,20,BOWLER,20,0.0,UnSold,Uncapped,2023,0.0,False
+Kanwar Singh,India,31,BOWLER,20,0.0,UnSold,Uncapped,2023,0.0,False
+Fabian Allen,West Indies,27,ALL-ROUNDER,50,0.0,UnSold,Capped,2023,0.0,True
+Carlos Brathwaite,West Indies,34,ALL-ROUNDER,75,0.0,UnSold,Capped,2023,0.0,True
+Roston Chase,West Indies,31,ALL-ROUNDER,100,0.0,UnSold,Capped,2023,0.0,True
+Rahkeem Cornwall,West Indies,30,ALL-ROUNDER,100,0.0,UnSold,Capped,2023,0.0,True
+Karim Janat,Afghanistan,24,ALL-ROUNDER,50,0.0,UnSold,Capped,2023,0.0,True
+Keshav Maharaj,South Africa,33,ALL-ROUNDER,50,0.0,UnSold,Capped,2023,0.0,True
+Pawan Negi,India,30,ALL-ROUNDER,50,0.0,UnSold,Capped,2023,0.0,False
+Keemo Paul,West Indies,25,ALL-ROUNDER,50,0.0,UnSold,Capped,2023,0.0,True
+Shivam Chaudhary,India,25,ALL-ROUNDER,20,0.0,UnSold,Uncapped,2023,0.0,False
+Ashwin Das,India,27,ALL-ROUNDER,20,0.0,UnSold,Uncapped,2023,0.0,False
+James Fuller,England,33,ALL-ROUNDER,40,0.0,UnSold,Uncapped,2023,0.0,True
+Chirag Jani,India,33,ALL-ROUNDER,20,0.0,UnSold,Uncapped,2023,0.0,False
+Akshay Karnewar,India,30,ALL-ROUNDER,20,0.0,UnSold,Uncapped,2023,0.0,False
+Bhagmender Lather,India,25,ALL-ROUNDER,20,0.0,UnSold,Uncapped,2023,0.0,False
+Lone Muzaffar,India,25,ALL-ROUNDER,20,0.0,UnSold,Uncapped,2023,0.0,False
+Pulkit Narang,India,28,ALL-ROUNDER,20,0.0,UnSold,Uncapped,2023,0.0,False
+Rohit Rayudu,India,28,ALL-ROUNDER,20,0.0,UnSold,Uncapped,2023,0.0,False
+Sameer Rizvi,India,19,ALL-ROUNDER,20,0.0,UnSold,Uncapped,2023,0.0,False
+Tunish Sawkar,India,24,ALL-ROUNDER,20,0.0,UnSold,Uncapped,2023,0.0,False
+Sonu Yadav,India,23,ALL-ROUNDER,20,20.0,RCB,Uncapped,2023,1.0,False
+Auqib Dar,India,26,BOWLER,20,0.0,UnSold,Uncapped,2023,0.0,False
+Mukhtar Hussain,India,24,BOWLER,20,0.0,UnSold,Uncapped,2023,0.0,False
+Kulwant Khejroliya,India,31,BOWLER,20,20.0,KKR,Uncapped,2023,1.0,False
+Ashwani Kumar,India,21,BOWLER,20,0.0,UnSold,Uncapped,2023,0.0,False
+Hemant Kumar,India,27,BOWLER,20,0.0,UnSold,Uncapped,2023,0.0,False
+Nathan McAndrew,Australia,29,BOWLER,20,0.0,UnSold,Uncapped,2023,0.0,True
+Rajesh Mohanty,India,22,BOWLER,20,0.0,UnSold,Uncapped,2023,0.0,False
+Ravi Sharma,India,26,BOWLER,20,0.0,UnSold,Uncapped,2023,0.0,False
+Vikash Singh,India,28,BOWLER,20,0.0,UnSold,Uncapped,2023,0.0,False
+Ruben Trumpelmann,Namibia,25,BOWLER,20,0.0,UnSold,Associate,2023,0.0,True
+Koushik Vasuki,India,30,BOWLER,20,0.0,UnSold,Uncapped,2023,0.0,False
+Vasu Vats,India,20,BOWLER,20,0.0,UnSold,Uncapped,2023,0.0,False
+Shubham Agrawal,India,29,ALL-ROUNDER,20,0.0,UnSold,Uncapped,2023,0.0,False
+Baba Aparajith,India,28,ALL-ROUNDER,20,0.0,UnSold,Uncapped,2023,0.0,False
+Anshul Kamboj,India,22,ALL-ROUNDER,20,0.0,UnSold,Uncapped,2023,0.0,False
+Azim Kazi,India,29,ALL-ROUNDER,20,0.0,UnSold,Uncapped,2023,0.0,False
+Dev Lakra,India,20,ALL-ROUNDER,20,0.0,UnSold,Uncapped,2023,0.0,False
+Ajay Mandal,India,27,ALL-ROUNDER,20,20.0,CSK,Uncapped,2023,1.0,False
+Abdul P A,India,24,ALL-ROUNDER,20,0.0,UnSold,Uncapped,2023,0.0,False
+Jitender Pal,India,23,ALL-ROUNDER,20,0.0,UnSold,Uncapped,2023,0.0,False
+Ritwik Roy Chowdhury,India,27,ALL-ROUNDER,20,0.0,UnSold,Uncapped,2023,0.0,False
+Utkarsh Singh,India,24,ALL-ROUNDER,20,0.0,UnSold,Uncapped,2023,0.0,False
+Shubham Singh,India,26,ALL-ROUNDER,20,0.0,UnSold,Uncapped,2023,0.0,False
+Avneesh Sudha,India,21,ALL-ROUNDER,20,0.0,UnSold,Uncapped,2023,0.0,False
+Asad Jamil Ahmed,India,23,BOWLER,20,0.0,UnSold,Uncapped,2023,0.0,False
+Bandaru Ayyappa,India,30,BOWLER,20,0.0,UnSold,Uncapped,2023,0.0,False
+Aashish Bhatt,India,19,BOWLER,20,0.0,UnSold,Uncapped,2023,0.0,False
+McKenny Clarke,West Indies,19,BOWLER,20,0.0,UnSold,Uncapped,2023,0.0,True
+Shubham Kapse,India,28,BOWLER,20,0.0,UnSold,Uncapped,2023,0.0,False
+Gourav Koul,India,24,BOWLER,20,0.0,UnSold,Uncapped,2023,0.0,False
+Raunak Kumar,India,20,BOWLER,20,0.0,UnSold,Uncapped,2023,0.0,False
+Trilok Nag,India,22,BOWLER,20,0.0,UnSold,Uncapped,2023,0.0,False
+Atal Bihari Rai,India,23,BOWLER,20,0.0,UnSold,Uncapped,2023,0.0,False
+Ramon Simmonds,West Indies,21,BOWLER,20,0.0,UnSold,Uncapped,2023,0.0,True
+Rajeev Singh,India,27,BOWLER,20,0.0,UnSold,Uncapped,2023,0.0,False
+Mohd. Wasim,India,23,BOWLER,20,0.0,UnSold,Uncapped,2023,0.0,False
+Atharva Ankolekar,India,22,ALL-ROUNDER,20,0.0,UnSold,Uncapped,2023,0.0,False
+Khizar Dafedar,India,25,ALL-ROUNDER,20,0.0,UnSold,Uncapped,2023,0.0,False
+Naman Dhir,India,23,ALL-ROUNDER,20,0.0,UnSold,Uncapped,2023,0.0,False
+Sahil Dhiwan,India,25,ALL-ROUNDER,20,0.0,UnSold,Uncapped,2023,0.0,False
+Sampark Gupta,India,21,ALL-ROUNDER,20,0.0,UnSold,Uncapped,2023,0.0,False
+Jordan Hermann,South Africa,21,ALL-ROUNDER,20,0.0,UnSold,Uncapped,2023,0.0,True
+Hayden Kerr,Australia,26,ALL-ROUNDER,20,0.0,UnSold,Uncapped,2023,0.0,True
+Salman Khan,India,24,ALL-ROUNDER,20,0.0,UnSold,Uncapped,2023,0.0,False
+Sairaj Patil,India,26,ALL-ROUNDER,20,0.0,UnSold,Uncapped,2023,0.0,False
+Divyaansh Saxena,India,22,ALL-ROUNDER,20,0.0,UnSold,Uncapped,2023,0.0,False
+Purnank Tyagi,India,22,ALL-ROUNDER,20,0.0,UnSold,Uncapped,2023,0.0,False
+Prince Yadav,India,25,ALL-ROUNDER,20,0.0,UnSold,Uncapped,2023,0.0,False
+Deepraj Gaonkar,India,25,ALL-ROUNDER,20,0.0,UnSold,Uncapped,2023,0.0,False
+Shubham Garhwal,India,27,ALL-ROUNDER,20,0.0,UnSold,Uncapped,2023,0.0,False
+Benny Howell,England,34,ALL-ROUNDER,40,0.0,UnSold,Uncapped,2023,0.0,True
+Deepesh Nailwal,India,25,ALL-ROUNDER,20,0.0,UnSold,Uncapped,2023,0.0,False
+Arjun Rapria,India,23,ALL-ROUNDER,20,0.0,UnSold,Uncapped,2023,0.0,False
+Shashwat Rawat,India,22,ALL-ROUNDER,20,0.0,UnSold,Uncapped,2023,0.0,False
+Sumit Ruikar,India,32,ALL-ROUNDER,20,0.0,UnSold,Uncapped,2023,0.0,False
+Shivam Sharma,India,29,ALL-ROUNDER,20,0.0,UnSold,Uncapped,2023,0.0,False
+Rajandeep Singh,India,20,ALL-ROUNDER,20,0.0,UnSold,Uncapped,2023,0.0,False
+Anunay Singh,India,30,ALL-ROUNDER,20,0.0,UnSold,Uncapped,2023,0.0,False
+Digvesh Singh,India,23,ALL-ROUNDER,20,0.0,UnSold,Uncapped,2023,0.0,False
+Pranshu Vijayran,India,27,ALL-ROUNDER,20,0.0,UnSold,Uncapped,2023,0.0,False
+Prerit Dutta,India,24,ALL-ROUNDER,20,0.0,UnSold,Uncapped,2023,0.0,False
+Ramakrishna Ghosh,India,25,ALL-ROUNDER,20,0.0,UnSold,Uncapped,2023,0.0,False
+Shubhang Hegde,India,22,ALL-ROUNDER,20,0.0,UnSold,Uncapped,2023,0.0,False
+Shamshuzama Kazi,India,28,ALL-ROUNDER,20,0.0,UnSold,Uncapped,2023,0.0,False
+Ayaz Khan,India,20,ALL-ROUNDER,20,0.0,UnSold,Uncapped,2023,0.0,False
+Amit Pachhara,India,27,ALL-ROUNDER,20,0.0,UnSold,Uncapped,2023,0.0,False
+Akul Pandove,India,25,ALL-ROUNDER,20,0.0,UnSold,Uncapped,2023,0.0,False
+Mohit Rathee,India,24,ALL-ROUNDER,20,20.0,PBKS,Uncapped,2023,1.0,False
+Garv Sangwan,India,19,ALL-ROUNDER,20,0.0,UnSold,Uncapped,2023,0.0,False
+Shubham Sharma,India,26,ALL-ROUNDER,20,0.0,UnSold,Uncapped,2023,0.0,False
+Nehal Wadhera,India,22,ALL-ROUNDER,20,20.0,MI,Uncapped,2023,1.0,False
+Amit Yadav,India,33,ALL-ROUNDER,20,0.0,UnSold,Uncapped,2023,0.0,False
+Amit Ali,India,20,ALL-ROUNDER,20,0.0,UnSold,Uncapped,2023,0.0,False
+Rishabh Chauhan,India,23,ALL-ROUNDER,20,0.0,UnSold,Uncapped,2023,0.0,False
+Matthew Forde,West Indies,20,ALL-ROUNDER,20,0.0,UnSold,Uncapped,2023,0.0,True
+Sammar Gajjar,India,19,ALL-ROUNDER,20,0.0,UnSold,Uncapped,2023,0.0,False
+Rajneesh Gurbani,India,30,ALL-ROUNDER,20,0.0,UnSold,Uncapped,2023,0.0,False
+Divyansh Joshi,India,21,ALL-ROUNDER,20,0.0,UnSold,Uncapped,2023,0.0,False
+Dhruv Patel,India,25,ALL-ROUNDER,20,0.0,UnSold,Uncapped,2023,0.0,False
+Jack Prestwidge,Australia,27,ALL-ROUNDER,20,0.0,UnSold,Uncapped,2023,0.0,True
+Aditya Sarvate,India,33,ALL-ROUNDER,20,0.0,UnSold,Uncapped,2023,0.0,False
+Sagar Solanki,India,23,ALL-ROUNDER,20,0.0,UnSold,Uncapped,2023,0.0,False
+Prenelan Subrayen,South Africa,29,ALL-ROUNDER,20,0.0,UnSold,Uncapped,2023,0.0,True
+Bhagath Varma,India,24,ALL-ROUNDER,20,20.0,CSK,Uncapped,2023,1.0,False
